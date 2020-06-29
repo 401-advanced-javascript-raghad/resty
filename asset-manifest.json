@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/401-advanced-javascript-raghad/resty/static/css/main.2a68faed.chunk.css",
-    "main.js": "/401-advanced-javascript-raghad/resty/static/js/main.509f5d9c.chunk.js",
-    "main.js.map": "/401-advanced-javascript-raghad/resty/static/js/main.509f5d9c.chunk.js.map",
-    "runtime-main.js": "/401-advanced-javascript-raghad/resty/static/js/runtime-main.836fb7a6.js",
-    "runtime-main.js.map": "/401-advanced-javascript-raghad/resty/static/js/runtime-main.836fb7a6.js.map",
-    "static/js/2.62d548b3.chunk.js": "/401-advanced-javascript-raghad/resty/static/js/2.62d548b3.chunk.js",
-    "static/js/2.62d548b3.chunk.js.map": "/401-advanced-javascript-raghad/resty/static/js/2.62d548b3.chunk.js.map",
-    "index.html": "/401-advanced-javascript-raghad/resty/index.html",
-    "precache-manifest.2b5d8a720e4176566af0fea4f753d070.js": "/401-advanced-javascript-raghad/resty/precache-manifest.2b5d8a720e4176566af0fea4f753d070.js",
-    "service-worker.js": "/401-advanced-javascript-raghad/resty/service-worker.js",
-    "static/css/main.2a68faed.chunk.css.map": "/401-advanced-javascript-raghad/resty/static/css/main.2a68faed.chunk.css.map",
-    "static/js/2.62d548b3.chunk.js.LICENSE.txt": "/401-advanced-javascript-raghad/resty/static/js/2.62d548b3.chunk.js.LICENSE.txt"
+    "main.css": "/resty/static/css/main.2a68faed.chunk.css",
+    "main.js": "/resty/static/js/main.509f5d9c.chunk.js",
+    "main.js.map": "/resty/static/js/main.509f5d9c.chunk.js.map",
+    "runtime-main.js": "/resty/static/js/runtime-main.ea9bec24.js",
+    "runtime-main.js.map": "/resty/static/js/runtime-main.ea9bec24.js.map",
+    "static/js/2.62d548b3.chunk.js": "/resty/static/js/2.62d548b3.chunk.js",
+    "static/js/2.62d548b3.chunk.js.map": "/resty/static/js/2.62d548b3.chunk.js.map",
+    "index.html": "/resty/index.html",
+    "precache-manifest.ed53807846b36401204b434f0e3c94be.js": "/resty/precache-manifest.ed53807846b36401204b434f0e3c94be.js",
+    "service-worker.js": "/resty/service-worker.js",
+    "static/css/main.2a68faed.chunk.css.map": "/resty/static/css/main.2a68faed.chunk.css.map",
+    "static/js/2.62d548b3.chunk.js.LICENSE.txt": "/resty/static/js/2.62d548b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.836fb7a6.js",
+    "static/js/runtime-main.ea9bec24.js",
     "static/js/2.62d548b3.chunk.js",
     "static/css/main.2a68faed.chunk.css",
     "static/js/main.509f5d9c.chunk.js"
